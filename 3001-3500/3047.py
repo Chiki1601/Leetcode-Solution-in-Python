@@ -1,6 +1,4 @@
-
-class Solution:
-    class Solution(object):
+class Solution(object):
     def largestSquareArea(self, bottomLeft, topRight):
         ans = 0
         n = len(bottomLeft)
